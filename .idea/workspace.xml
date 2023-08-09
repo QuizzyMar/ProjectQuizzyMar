@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add empty  StyleControlWork.css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add title in tag title ControlWork.html">
       <change beforePath="$PROJECT_DIR$/ControlWork/ControlWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/ControlWork/ControlWork.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691572632684</updated>
-      <workItem from="1691572634566" duration="1751000" />
+      <workItem from="1691572634566" duration="2322000" />
     </task>
     <task id="LOCAL-00001" summary="add empty ControlWork.html">
       <option name="closed" value="true" />
@@ -72,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691573793088</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add title in tag title ControlWork.html">
+      <option name="closed" value="true" />
+      <created>1691575199253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691575199253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add empty ControlWork.html" />
     <MESSAGE value="add empty  StyleControlWork.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="add empty  StyleControlWork.css" />
+    <MESSAGE value="add title in tag title ControlWork.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add title in tag title ControlWork.html" />
   </component>
 </project>
