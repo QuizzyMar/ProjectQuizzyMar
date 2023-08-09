@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add empty ControlWork.html">
-      <change afterPath="$PROJECT_DIR$/ControlWork/StyleControlWork.css" afterDir="false" />
+    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add empty  StyleControlWork.css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlWork/ControlWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/ControlWork/ControlWork.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691572632684</updated>
-      <workItem from="1691572634566" duration="1106000" />
+      <workItem from="1691572634566" duration="1751000" />
     </task>
     <task id="LOCAL-00001" summary="add empty ControlWork.html">
       <option name="closed" value="true" />
@@ -63,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691572868524</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add empty  StyleControlWork.css">
+      <option name="closed" value="true" />
+      <created>1691573793088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691573793088</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add empty ControlWork.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add empty ControlWork.html" />
+    <MESSAGE value="add empty  StyleControlWork.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="add empty  StyleControlWork.css" />
   </component>
 </project>
