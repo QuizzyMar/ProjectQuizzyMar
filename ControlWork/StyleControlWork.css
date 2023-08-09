@@ -150,3 +150,65 @@ img{
     font-size: 16px;
     text-transform: uppercase;
 }
+.make{
+    width: 280px;
+    margin: 5px 0 0 30px;
+    font-size: 39px;
+}
+.live{
+    margin: 5px 0 0 30px;
+    color: #C4C4C4;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.section{
+    margin: 100px 0 0 0;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.title{
+    margin: 0 0 10px 0;
+    font-size: 28px;
+}
+.sectionText{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #C4C4C4;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.oneText, .twoText, .threeText, .fourText{
+    color: #C4C4C4;
+    font-size: 18px;
+    padding: 3px;
+}
+.point{
+    margin: 0 0 10px 0;
+    font-size: 25px;
+}
+.one, .two, .three, .four{
+    width: 350px;
+    height: 250px;
+    border-radius: 24px;
+    text-align: left;
+    padding: 30px;
+    line-height: 25px;
+}
+.fourA{
+    margin: 0;
+    color: #19FB9B;
+    text-decoration: underline;
+}
+.three{
+    position: relative;
+    width: 350px;
+    height: 200px;
+}
+.threeThree{
+    position: absolute;
+    top: -40px;
+}
+.oneTwo{
+    margin: 0 0 0 80px;
+}
