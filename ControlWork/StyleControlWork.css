@@ -110,3 +110,43 @@ img{
     width: 600px;
     height: 600px;
 }
+.join{
+        margin: 55px 0 0 30px;
+        color: white;
+        font-size: 40px;
+    }
+.numbers{
+    width: 600px;
+    height: 600px;
+}
+.top{
+    margin: 0 0 0 5px;
+    font-size: 100px;
+    background: linear-gradient(228deg, #19FB9B 0%, #8C01FA 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.middle{
+    margin: 40px 0 0 10px;
+    font-size: 100px;
+    background: var(--s-gradient-2, linear-gradient(229deg, #0047FF 0%, #00BCD4 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bottom{
+    margin: 40px 0 0 10px;
+    font-size: 100px;
+    background: linear-gradient(222deg, #00FFBD 0%, #025B8C 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.textNumbers{
+    margin: 0 0 50px 10px;
+    color: #C4C4C4;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+}
