@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add images">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add tag div class center, tag a class text, tag footer  ControlWork.html&#10;add style tag a, h1, h2, classes, buttons, footer">
       <change beforePath="$PROJECT_DIR$/ControlWork/ControlWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/ControlWork/ControlWork.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ControlWork/StyleControlWork.css" beforeDir="false" afterPath="$PROJECT_DIR$/ControlWork/StyleControlWork.css" afterDir="false" />
     </list>
@@ -61,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691572632684</updated>
-      <workItem from="1691572634566" duration="4543000" />
+      <workItem from="1691572634566" duration="5125000" />
     </task>
     <task id="LOCAL-00001" summary="add empty ControlWork.html">
       <option name="closed" value="true" />
@@ -127,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691577198969</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add tag div class center, tag a class text, tag footer  ControlWork.html&#10;add style tag a, h1, h2, classes, buttons, footer">
+      <option name="closed" value="true" />
+      <created>1691578045405</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691578045405</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +160,7 @@
     <MESSAGE value="add tag nav ControlWork.html" />
     <MESSAGE value="add style in tag header,nav StyleControlWork.css" />
     <MESSAGE value="add images" />
-    <option name="LAST_COMMIT_MESSAGE" value="add images" />
+    <MESSAGE value="add tag div class center, tag a class text, tag footer  ControlWork.html&#10;add style tag a, h1, h2, classes, buttons, footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tag div class center, tag a class text, tag footer  ControlWork.html&#10;add style tag a, h1, h2, classes, buttons, footer" />
   </component>
 </project>
