@@ -6,3 +6,22 @@ body{
     background-color: black;
     font-family: Helvetica, sans-serif;
 }
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 5vh;
+    background: var(--s-gradient-2, linear-gradient(229deg, #0047FF 0%, #00BCD4 100%));
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+nav{
+    height: 5vh;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

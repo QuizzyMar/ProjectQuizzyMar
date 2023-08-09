@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add font-family ControlWork.html&#10;united with CSS">
+    <list default="true" id="81275c7a-3bfa-4ae2-99a7-584f7971f26e" name="Changes" comment="add tag header ControlWork.html&#10;add style in tag body StyleControlWork.css">
       <change beforePath="$PROJECT_DIR$/ControlWork/ControlWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/ControlWork/ControlWork.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlWork/StyleControlWork.css" beforeDir="false" afterPath="$PROJECT_DIR$/ControlWork/StyleControlWork.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691572632684</updated>
-      <workItem from="1691572634566" duration="2746000" />
+      <workItem from="1691572634566" duration="3117000" />
     </task>
     <task id="LOCAL-00001" summary="add empty ControlWork.html">
       <option name="closed" value="true" />
@@ -88,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691575566322</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add tag header ControlWork.html&#10;add style in tag body StyleControlWork.css">
+      <option name="closed" value="true" />
+      <created>1691575904989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691575904989</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +117,7 @@
     <MESSAGE value="add empty  StyleControlWork.css" />
     <MESSAGE value="add title in tag title ControlWork.html" />
     <MESSAGE value="add font-family ControlWork.html&#10;united with CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="add font-family ControlWork.html&#10;united with CSS" />
+    <MESSAGE value="add tag header ControlWork.html&#10;add style in tag body StyleControlWork.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tag header ControlWork.html&#10;add style in tag body StyleControlWork.css" />
   </component>
 </project>
