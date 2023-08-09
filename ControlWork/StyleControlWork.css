@@ -212,3 +212,107 @@ img{
 .oneTwo{
     margin: 0 0 0 80px;
 }
+/*-----------------------------------------------------------------------------------------*/
+.big{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 300px 0 300px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+}
+.box{
+    width: 1100px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 16px;
+    background: rgba(66, 59, 66, 0.3);
+}
+.build{
+    font-size: 40px;
+    color: white;
+    margin: 40px 0 40px 0;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.One{
+    border-radius: 15px;
+    border: 1px solid #A962FF;
+    background: #111;
+    width: 60px;
+    height: 40px;
+    color: white;
+    margin: 5px;
+}
+.Two, .Three, .Four, .Five{
+    border-radius: 15px;
+    border: 1px solid #111;
+    background: #111;
+    color: white;
+    margin: 5px;
+}
+.Two{
+    width: 60px;
+    height: 40px;
+}
+.Three{
+    width: 100px;
+    height: 40px;
+}
+.Four{
+    width: 80px;
+    height: 40px;
+}
+.Five{
+    width: 70px;
+    height: 40px;
+}
+.footer{
+    margin: 20px;
+    width: 1100px;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 16px;
+    background: rgba(38, 31, 38, 0.30);
+}
+.imgTwoBox{
+    padding: 40px;
+    width: 550px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.imgOneBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 400px;
+}
+.textBoxes{
+    color: #A962FF;
+    font-size: 20px;
+}
+.textBox{
+    margin: 0;
+    padding: 10px 0 10px 0;
+    font-size: 20px;
+    line-height: 25px;
+    color: white;
+}
+#img{
+    padding: 0;
+}
